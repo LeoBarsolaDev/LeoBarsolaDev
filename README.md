@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Leo </b></h1>
+<h1 align="center"><b>👋 Hi, I'm Leo, but you can call me Luci. 👋</b></h1>
 <p align="center">Hi! I'm Leo, a junior web developer and game developer from Argentina.</p>
 <br>
 
